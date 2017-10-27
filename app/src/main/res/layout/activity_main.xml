@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.yaphet.myjavajni.MainActivity">
+
+    <Button
+        android:id="@+id/bt_main_hello"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="helloC"
+        />
+    <Button
+        android:id="@+id/bt_main_add"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="helAdd"
+        />
+    <Button
+        android:id="@+id/bt_main_key"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="helKey"
+        />
+    <Button
+        android:id="@+id/bt_main_helloback"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="hellobackjava"
+        />
+    <Button
+        android:id="@+id/bt_main_addback"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="addbackjava"
+        />
+    <Button
+        android:id="@+id/bt_main_stringgback"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="stringbackjava"
+        />
+    <Button
+        android:id="@+id/bt_main_staticback"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="staticbackjava"
+        />
+</LinearLayout>
