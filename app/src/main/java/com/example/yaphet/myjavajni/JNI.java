@@ -29,8 +29,10 @@ public class JNI {
      */
     public native int checkPwd(String pwd);
 
-
     /**
+     *
+     *
+     *
      * 当执行这个方法的时候，让C代码调用
      * public int add(int x, int y)
      */
